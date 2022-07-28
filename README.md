@@ -7,7 +7,7 @@ The design of the SpirtHack loader has been tried to be the same. It is not exac
 Download the source file on your computer, then edit it as much as you want. 
 
 - [Discord](https://discord.gg/jyhCw8mvWu) - Our discord address
-- [Discord](Spoffer#9400) -  Our discord address
+- [Spoffer#9400]
 
 ```Code Information
 using System;
